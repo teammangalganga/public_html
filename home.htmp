@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Coming Soon</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" >
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style type="text/css">
+#container{
+margin-top:40px;
+text-align:center;
+}
+#tagline{
+font-size:30px;
+font-family:cursive;
+}
+#cmg{
+font-size:40px;
+color:blue;
+font-weight:bold;
+}
+</style>
+</head>
+<body>
+<div id="container">
+  <img id="logo" src="logo.jpg">
+  <p id="tagline">We bring Happiness to your Home buy Sweetes at mithaiwalaonline.com</p>
+  <p id="cmg">Comming soon !</p>
+</div>
+
+</body>
+</html>
